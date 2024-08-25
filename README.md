@@ -1,16 +1,18 @@
-### Hi there 👋
+# Mathias Tokerød
 
-<!--
-**mathiascn/mathiascn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fullstack Developer | Data Engineer**
 
-Here are some ideas to get you started:
+Hi there 👋 I'm a Norwegian developer. I enjoy working with Python, SQL, and various web technologies. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies I Use
+- **Languages:** Python, SQL, JavaScript, PHP, Lua
+- **Frameworks:** Flask, FastAPI, Laravel
+- **Tools:** Docker, Git, Selenium
+- **Databases:** MySQL, MSSQL, Snowflake, PostgreSQL
+
+## 🌱 Currently Exploring
+- Rust for API development(Actix)
+- Cloud computing with GCP
+
+## 📫 Get in Touch
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mtok).
