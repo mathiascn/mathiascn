@@ -8,7 +8,7 @@ Hi there 👋 I'm a Norwegian developer. I enjoy working with Python, SQL, and v
 - **Languages:** Python, SQL, JavaScript, PHP, Lua
 - **Frameworks:** Flask, FastAPI, Laravel
 - **Tools:** Docker, Git, Selenium
-- **Databases:** MySQL, MSSQL, Snowflake, PostgreSQL
+- **Databases:** MSSQL, MySQL, Snowflake, PostgreSQL
 
 ## 🌱 Currently Exploring
 - Rust for API development(Actix)
